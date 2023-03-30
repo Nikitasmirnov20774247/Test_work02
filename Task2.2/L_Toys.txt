@@ -1,0 +1,10 @@
+Plush_Zebra 48.11
+Doll 23.52
+Excavator 51.73
+Plush_dog 35.45
+Hoop 35.33
+Plush_Sark 12.97
+Rocket 55.32
+Plush_cat 28.21
+Plastic_fishing_rod 21.23
+Plastic_fish 39.21
